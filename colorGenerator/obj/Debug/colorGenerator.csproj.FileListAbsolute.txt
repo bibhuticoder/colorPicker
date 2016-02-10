@@ -1,0 +1,9 @@
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\bin\Debug\colorGenerator.exe.config
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\bin\Debug\colorGenerator.exe
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\bin\Debug\colorGenerator.pdb
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.csprojResolveAssemblyReference.cache
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.Form1.resources
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.Properties.Resources.resources
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.csproj.GenerateResource.Cache
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.exe
+C:\wamp\www\chatApplication\colorGenerator\colorGenerator\obj\Debug\colorGenerator.pdb
